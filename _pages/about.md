@@ -30,11 +30,11 @@ Publication
 -  <b>A survey of deep facial landmark detection</b><br />
   <b>Y. Yan</b>, X. Naturel, [T. Chateau](https://chateaut.fr/), [S. Duffner](http://duffner-net.de/), X. Naturel, C. Garcia,  C. Blanc<br />
   Congrès Reconnaissance des Formes, Image, Apprentissage et Perception (<b>RFIAP</b>), 2018 <br />
-  [[pdf]](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Yan_A.pdf); [[Slides]](https://ieeexplore.ieee.org/document/8699189)
+  [[pdf]](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Yan_A.pdf)
   
 Talks
 ========
 -  <b>Explainable and interpretable CNN</b><br />
-  [[pdf]](/files/CNN Interpretability-1-41.pdf)
+  [[Slides]](/files/CNNInterpretability-1-41.pdf)
   
 
