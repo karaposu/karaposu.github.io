@@ -35,6 +35,7 @@ Publication
 Talks
 ========
 -  <b>Explainable and interpretable CNN</b><br />
+   Deep Learning Seminar, Institut Pascal
   [[Slides]](/files/CNNInterpretability-1-41.pdf)
   
 
