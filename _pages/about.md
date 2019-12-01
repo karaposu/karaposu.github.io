@@ -17,6 +17,16 @@ Previously I obtained my Master's degree in engineering (Diplôme d'ingénieur) 
 
 Publication  
 ========
+-  <b>2D Wasserstein Loss for Robust Facial Landmark Detection</b><br />
+  <b>Y. Yan</b>, [S. Duffner](http://duffner-net.de/), P. Phutane, A. Berthelier, C. Blanc, C. Garcia, [T. Chateau](https://chateaut.fr/) <br />
+  ArXiv Preprint 1911.10572 <br />
+  [[pdf]](https://arxiv.org/pdf/1911.10572.pdf); [[Code (Coming soon)]](http://yozey.github.io)
+  
+-  <b>Facial Landmark Correlation Analysis</b><br />
+  <b>Y. Yan</b>, [S. Duffner](http://duffner-net.de/), P. Phutane, A. Berthelier, C. Blanc, C. Garcia, [T. Chateau](https://chateaut.fr/) <br />
+  ArXiv Preprint 1911.10576 <br />
+  [[pdf]](https://arxiv.org/pdf/1911.10576.pdf); [[Code (Coming soon)]](http://yozey.github.io)
+  
 -  <b>Human Hair Segmentation In The Wild Using Deep Shape Prior</b><br />
   <b>Y. Yan</b>, A. Berthelier, [S. Duffner](http://duffner-net.de/), X. Naturel, C. Garcia, [T. Chateau](https://chateaut.fr/) <br />
   CVPR Workshop on Computer Vision for Augmented and Virtual Reality, 2019 <br />
