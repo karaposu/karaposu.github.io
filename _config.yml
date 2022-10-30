@@ -11,9 +11,9 @@ title                    : "Yongzhe YAN"
 title_separator          : "-"
 name                     : &name "Yongzhe YAN"
 description              : &description "Ph.D candidate @ Univesité Clermont Auvergne"
-url                      : https://yozey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://karaposu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yozey.github.io"
+repository               : "karaposu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
