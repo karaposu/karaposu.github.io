@@ -17,9 +17,8 @@ Previously I obtained my Master's degree in Big Data & AI in [Novosibirsk State 
 
 Publication  
 ========
--  <b>Button Press Detection from EEG Signals Using Deep Learningn</b> <br />
-  <b> E. Kuzucu</b> <br /> 
-  [[Paper Link:]] (https://ieeexplore.ieee.org/document/9855191);
+-  <b>Button Press Detection from EEG Signals Using Deep Learning</b> <br />
+  [[Link:]](https://ieeexplore.ieee.org/document/9855191)
   
   
 Projects
