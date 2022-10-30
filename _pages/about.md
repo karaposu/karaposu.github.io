@@ -10,42 +10,24 @@ redirect_from:
 
 About me
 ========
-I am a 3rd-year Ph.D candidate at [ComSee](https://comsee.ispr-ip.fr/) group, [ISPR](https://ispr-ip.fr/) department of [Institut Pascal](http://www.institutpascal.uca.fr/index.php/fr/), [Université Clermont Auvergne](https://www.uca.fr/), UMR 6602 - [CNRS](https://www.cnrs.fr/).  My research interest is Face Analysis for Augmented Reality Applications and deep CNN interpretations. 
+My research interest is Face Analysis for Augmented Reality Applications and deep CNN interpretations. 
 
-Previously I obtained my Master's degree in engineering (Diplôme d'ingénieur) in [Ecole des Mines de Saint-Etienne](https://www.mines-stetienne.fr/en/). In 2014, I obtained my Bachelor's degree in biomedical engineering from [Fudan University](https://www.fudan.edu.cn/en/), China.   
+Previously I obtained my Master's degree in Big Data & AI in [Novosibirsk State University](https://www.mines-stetienne.fr/en/). In 2018, I obtained my Bachelor's degree in biomedical engineering from [Kocaeli University](https://www.fudan.edu.cn/en/), Turkey.   
 
 
 Publication  
 ========
--  <b>2D Wasserstein Loss for Robust Facial Landmark Detection</b><br />
-  <b>Y. Yan</b>, [S. Duffner](http://duffner-net.de/), P. Phutane, A. Berthelier, C. Blanc, C. Garcia, [T. Chateau](https://chateaut.fr/) <br />
-  ArXiv Preprint 1911.10572 <br />
-  [[pdf]](https://arxiv.org/pdf/1911.10572.pdf); [[Code (Coming soon)]](http://yozey.github.io)
+-  <b>Button Press Detection from EEG Signals Using Deep Learningn</b><br />
+  <b>E. Kuzucu</b>, [S. Duffner](http://duffner-net.de/), P. Phutane, A. Berthelier, C. Blanc, C. Garcia, [T. Chateau](https://chateaut.fr/) <br />
+  IEEE link<br />
+  [[pdf]]([https://arxiv.org/pdf/1911.10572.pdf](https://ieeexplore.ieee.org/document/9855191)); [[Code (Coming soon)]](http://karaposu.github.io)
   
--  <b>Facial Landmark Correlation Analysis</b><br />
-  <b>Y. Yan</b>, [S. Duffner](http://duffner-net.de/), P. Phutane, A. Berthelier, C. Blanc, C. Garcia, [T. Chateau](https://chateaut.fr/) <br />
-  ArXiv Preprint 1911.10576 <br />
-  [[pdf]](https://arxiv.org/pdf/1911.10576.pdf); [[Code (Coming soon)]](http://yozey.github.io)
   
--  <b>Human Hair Segmentation In The Wild Using Deep Shape Prior</b><br />
-  <b>Y. Yan</b>, A. Berthelier, [S. Duffner](http://duffner-net.de/), X. Naturel, C. Garcia, [T. Chateau](https://chateaut.fr/) <br />
-  CVPR Workshop on Computer Vision for Augmented and Virtual Reality, 2019 <br />
-  [[pdf]](https://mixedreality.cs.cornell.edu/s/23_CVPRW_hair_segmentation.pdf); [[Project Page]](https://yozey.github.io/Hair-Segmentation-in-the-wild/)
-
--  <b>Face Parsing for Mobile AR Applications,</b><br />
-  <b>Y. Yan</b>, B. Bout, A. Berthelier, X. Naturel, [T. Chateau](https://chateaut.fr/) <br />
-  IEEE International Symposium on Mixed and Augmented Reality (<b>ISMAR Demo</b>), 2018 <br />
-  [[pdf]](https://www.researchgate.net/publication/327557772_Face_Parsing_for_Mobile_AR_Applications); [[IEEE Access]](https://ieeexplore.ieee.org/document/8699189); [[Video Demo]](https://youtu.be/wEs-eW9h1MI)
-  
--  <b>A survey of deep facial landmark detection</b><br />
-  <b>Y. Yan</b>, X. Naturel, [T. Chateau](https://chateaut.fr/), [S. Duffner](http://duffner-net.de/), X. Naturel, C. Garcia,  C. Blanc<br />
-  Congrès Reconnaissance des Formes, Image, Apprentissage et Perception (<b>RFIAP</b>), 2018 <br />
-  [[pdf]](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Yan_A.pdf)
-  
-Talks
+Projects
 ========
--  <b>Explainable and interpretable CNN</b><br />
+-  <b>Converting your thoughts to texts: Enabling brain typing via deep feature learning of eeg signals</b><br />
    Deep Learning Seminar, Institut Pascal, 2019 <br />
-  [[Slides]](/files/CNNInterpretability-1-41.pdf)
+  [[Slides]](https://github.com/karaposu/Brain_typing)
+  
   
 
